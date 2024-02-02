@@ -1,4 +1,5 @@
 # Frontend Mentor - Order summary card solution
+![Design preview for the Order summary component coding challenge](./design/desktop-preview.jpg)
 
 This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -24,7 +25,7 @@ Users should be able to:
 
 - See hover states for interactive elements
 
-### Screenshots
+### Screenshots:-
 ### Desktop-view
 ![](Screenshot-desktop.png)
 ### Mobile-view
